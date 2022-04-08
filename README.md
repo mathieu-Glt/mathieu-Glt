@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hi, I'm @MathieuGillet
 
-<!--
-**mathieu-Glt/mathieu-Glt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a web developer in PHP and JavaScript trained on back technologies and  front. I learned web development as an autodidact but also with schools: O'Clock and 3WAcademy
 
-Here are some ideas to get you started:
+## 💻 Curently Project
+ I’m currently working on a project of creation of an API rest on The adventures of Tintin which will bring together the collection of the adventures of tintin there will be a front for the users who can browse the interface and choice a movie to see.
+ 
+## 📚 Curently Learning
+ I perfect myself on the good practices of NodeJS and Symfony. My learning will then continue on other backend frameworks with the discovery of Flask and Laravel
+ 
+## 🖥️ Know Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+
+
+
