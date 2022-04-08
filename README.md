@@ -21,16 +21,17 @@ I am a web developer in PHP and JavaScript trained on back technologies and  fro
 ### CSS Frameworks
 
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="45">
+<img src="http://moralogiq.fr/wp-content/themes/moralogiq/images/logo/techno-sass.png" width="45">
 
 ### Back-end Frameworks
 
-<img src="http://moralogiq.fr/wp-content/themes/moralogiq/images/logo/techno-symfony.png" width="40">
+<img src="http://moralogiq.fr/wp-content/themes/moralogiq/images/logo/techno-symfony.png" width="60">
 <img src="https://cdn.worldvectorlogo.com/logos/lumen-1.svg" width="40">
 <img src="http://moralogiq.fr/wp-content/themes/moralogiq/images/logo/techno-node.png" width="60">
 
 ### Front-end
 
-<img src="https://cdn-icons-png.flaticon.com/512/1260/1260775.png" width="40">
+<img src="https://cdn-icons-png.flaticon.com/512/1260/1260775.png" width="60">
 
 ### Deployement
 
