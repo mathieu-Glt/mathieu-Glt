@@ -10,8 +10,8 @@ I am a web developer in PHP and JavaScript trained on back technologies and  fro
  
 ## 🖥️ Know Technologies
 ### Languages
-<img src="https://cdn-icons-png.flaticon.com/512/226/226269.png" width="40">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40">
+<img src="http://moralogiq.fr/wp-content/themes/moralogiq/images/logo/techno-html.png" width="40">
+<img src="http://moralogiq.fr/wp-content/themes/moralogiq/images/logo/techno-css.png" width="40">
 <img src="http://moralogiq.fr/wp-content/themes/moralogiq/images/logo/techno-js.png" width="45"> 
 
 ### Daatabase servers
@@ -21,9 +21,9 @@ I am a web developer in PHP and JavaScript trained on back technologies and  fro
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="45">
 
 ### Back-end Frameworks
-<img src="https://symfony.com/logos/symfony_white_02.png" width="40">
+<img src="http://moralogiq.fr/wp-content/themes/moralogiq/images/logo/techno-symfony.png" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/lumen-1.svg" width="40">
-<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="50">
+<img src="http://moralogiq.fr/wp-content/themes/moralogiq/images/logo/techno-node.png" width="50">
 
 ### Front-end
 
