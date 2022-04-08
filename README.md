@@ -21,8 +21,8 @@ I am a web developer in PHP and JavaScript trained on back technologies and  fro
 ### CSS Frameworks
 
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="45">
-<img src="http://moralogiq.fr/wp-content/themes/moralogiq/images/logo/techno-sass.png" width="45">
-<img src="https://42l.fr/assets/resources/pages/Graphical-chart-and-credits/logo_bulma.png" width="45">
+<img src="http://moralogiq.fr/wp-content/themes/moralogiq/images/logo/techno-sass.png" width="55">
+<img src="https://42l.fr/assets/resources/pages/Graphical-chart-and-credits/logo_bulma.png" width="65">
 
 ### Back-end Frameworks
 
