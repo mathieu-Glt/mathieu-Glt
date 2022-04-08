@@ -49,6 +49,6 @@ I am a web developer in PHP and JavaScript trained on back technologies and  fro
 
 ## How to contact me
 
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30">
-<img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1649429761~hmac=8e58b450e0f7089c3954b53d04a2de79" width="30">
+<a href="mailto:mathieuglt1@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"></a>
+<a href="https://www.linkedin.com/in/mathieu-gillet-843a22115/"><img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1649429761~hmac=8e58b450e0f7089c3954b53d04a2de79" width="30"></a>
 
