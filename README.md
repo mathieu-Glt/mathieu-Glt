@@ -13,7 +13,7 @@ I am a web developer in PHP and JavaScript trained on back technologies and  fro
 <img src="http://moralogiq.fr/wp-content/themes/moralogiq/images/logo/techno-html.png" width="40">
 <img src="http://moralogiq.fr/wp-content/themes/moralogiq/images/logo/techno-css.png" width="40">
 <img src="http://moralogiq.fr/wp-content/themes/moralogiq/images/logo/techno-js.png" width="45"> 
-<img src="	https://cdn-icons-png.flaticon.com/512/528/528261.png" width="45"> 
+<img src="https://cdn-icons-png.flaticon.com/512/528/528261.png" width="45"> 
 
 ## Database servers
 
