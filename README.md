@@ -3,9 +3,7 @@
 I'm a web developer specializing in React, redux, Express js, Nestjs and Symfony.  I'm a passionate developer. What makes me most proud is having been able to work on complex projects.  I'd like to continue discovering this exceptional profession through other project opportunities.
 
 ## 💻 Curently Project
- I've just been working on an app project to enable parents to organize their children's journeys so that they can come to their activities. This application works with car sharing. The application is organized into micro-services. We developed this application using the REST standard. I used Reactjs & Nestjs. I'm proud to have been able to work on this application, which presented a number of challenges.
-
-Translated with DeepL.com (free version).
+I've just been working on an app project to enable parents to organize their children's journeys so that they can come to their activities. This application works with car sharing. The application is organized into micro-services. We developed this application using the REST standard. I used Reactjs & Nestjs. I'm proud to have been able to work on this application, which presented a number of challenges.
  
 ## 📚 Curently Learning
  I'm perfecting my NodeJS and Symfony best practices to build robust and secure api. I'm currently training on Docker to facilitate my design and deployment work.
