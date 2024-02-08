@@ -18,8 +18,9 @@ I've just been working on an app project to enable parents to organize their chi
 
 ## Database servers
 
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="45"> 
-<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/1280px-MongoDB-Logo.svg.png" width="85"> 
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="65"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="65">
+<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/1280px-MongoDB-Logo.svg.png" width="105"> 
 
 ## CSS Frameworks
 
