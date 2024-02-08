@@ -30,9 +30,10 @@ I've just been working on an app project to enable parents to organize their chi
 
 ## Back-end Frameworks
 
-<img src="http://moralogiq.fr/wp-content/themes/moralogiq/images/logo/techno-symfony.png" width="60">
+<img src="https://symfony.com/logos/symfony_black_03.png" width="60">
 <img src="https://cdn.worldvectorlogo.com/logos/lumen-1.svg" width="40">
-<img src="http://moralogiq.fr/wp-content/themes/moralogiq/images/logo/techno-node.png" width="70">
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*s9kgU8F1eB7Tzs7sG0YhBg.jpeg" width="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="70">
 
 ## Front-end
 
