@@ -11,8 +11,8 @@ I've just been working on an app project to enable parents to organize their chi
 ## 🖥️ Know Technologies
 ### Languages
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="40">
-<img src="https://fr.wikipedia.org/wiki/Hypertext_Markup_Language/media/Fichier:HTML5_logo_and_wordmark.svg" width="40">
-<img src="https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade/media/Fichier:CSS3_logo_and_wordmark.svg" width="45"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="45"> 
 <img src="https://cdn-icons-png.flaticon.com/512/528/528261.png" width="55"> 
 
 ## Database servers
