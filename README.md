@@ -10,7 +10,7 @@ I've just been working on an app project to enable parents to organize their chi
  
 ## 🖥️ Know Technologies
 ### Languages
-<img src="http://moralogiq.fr/wp-content/themes/moralogiq/images/logo/techno-html.png" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="40">
 <img src="http://moralogiq.fr/wp-content/themes/moralogiq/images/logo/techno-css.png" width="40">
 <img src="http://moralogiq.fr/wp-content/themes/moralogiq/images/logo/techno-js.png" width="45"> 
 <img src="https://cdn-icons-png.flaticon.com/512/528/528261.png" width="55"> 
