@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @MathieuGillet
+# 👋 Hi, I'm MathieuGillet
 
 I am a web developer in PHP and JavaScript trained on back technologies and  front. I learned web development as an autodidact but also with schools: O'Clock and 3WAcademy
 
