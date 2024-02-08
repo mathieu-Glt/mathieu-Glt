@@ -25,8 +25,8 @@ I've just been working on an app project to enable parents to organize their chi
 ## CSS Frameworks
 
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="45">
-<img src="http://moralogiq.fr/wp-content/themes/moralogiq/images/logo/techno-sass.png" width="55">
-<img src="https://42l.fr/assets/resources/pages/Graphical-chart-and-credits/logo_bulma.png" width="65">
+<img src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4" width="55">
+
 
 ## Back-end Frameworks
 
