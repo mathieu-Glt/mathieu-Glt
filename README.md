@@ -6,7 +6,7 @@ I'm a web developer specializing in React, redux, Express js, Nestjs and Symfony
 I've just been working on an app project to enable parents to organize their children's journeys so that they can come to their activities. This application works with car sharing. The application is organized into micro-services. We developed this application using the REST standard. I used Reactjs & Nestjs. I'm proud to have been able to work on this application, which presented a number of challenges.
  
 ## 📚 Curently Learning
- I'm perfecting my NodeJS and Symfony best practices to build robust and secure api. I'm currently training on Docker to facilitate my design and deployment work.
+ I'm perfecting my NodeJS and Symfony best practices to build robust and secure api. I'm currently training on Docker to facilitate my developpment and deployment work.
  
 ## 🖥️ Know Technologies
 ### Languages
