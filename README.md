@@ -1,12 +1,14 @@
-# 👋 Hi, I'm MathieuGillet
+# 👋 Hi, I'm Mathieu Gillet
 
-I am a web developer in PHP and JavaScript trained on back technologies and  front. I learned web development as an autodidact but also with schools: O'Clock and 3WAcademy
+I'm a web developer specializing in React, redux, Express js, Nestjs and Symfony.  I'm a passionate developer. What makes me most proud is having been able to work on complex projects.  I'd like to continue discovering this exceptional profession through other project opportunities.
 
 ## 💻 Curently Project
- I’m currently working on a project of API rest about The adventures of Tintin which will bring all collection of the adventures of tintin. There will be a front for the users who can browse the interface and choice a movie to see.
+ I've just been working on an app project to enable parents to organize their children's journeys so that they can come to their activities. This application works with car sharing. The application is organized into micro-services. We developed this application using the REST standard. I used Reactjs & Nestjs. I'm proud to have been able to work on this application, which presented a number of challenges.
+
+Translated with DeepL.com (free version).
  
 ## 📚 Curently Learning
- I perfect myself on the good practices of NodeJS and Symfony. My learning will then continue on other backend frameworks with the discovery of Flask and Laravel
+ I'm perfecting my NodeJS and Symfony best practices to build robust and secure api. I'm currently training on Docker to facilitate my design and deployment work.
  
 ## 🖥️ Know Technologies
 ### Languages
