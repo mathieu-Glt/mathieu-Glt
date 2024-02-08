@@ -55,5 +55,6 @@ I've just been working on an app project to enable parents to organize their chi
 ## How to contact me
 
 <a href="mailto:mathieuglt1@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"></a>
+<a href="mailto:mathieu.gillet@hotmail.fr"><img src="https://logo-marque.com/wp-content/uploads/2021/02/Outlook-Logo.png" width="30"></a>
 <a href="https://www.linkedin.com/in/mathieu-gillet-843a22115/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="30"></a>
 
